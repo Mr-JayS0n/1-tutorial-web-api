@@ -44,7 +44,7 @@ namespace WebAPI2.Controllers.Data
                     });
 
                     context.SaveChanges();
-
+                    int i = 0;
                 }
             }
         }
